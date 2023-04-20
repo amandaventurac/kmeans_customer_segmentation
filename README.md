@@ -2,7 +2,7 @@
 This repository contains a customer segmentation project, where I analyze e-commerce data from kaggle to find the correct clusters with Kmeans. 
 
 * segmentacao_clientes_kaggle.ipynb:
-Jupyter notebook created with google colab. To correct visualize the sweetviz results, please download it and upload to your colab environment. 
+Jupyter notebook created with google colab. To correct visualize the sweetviz results, please download it and upload it to your colab environment. 
 
 * online_retail.csv:
 Data from kaggle, https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset, downloaded on january 2023.
