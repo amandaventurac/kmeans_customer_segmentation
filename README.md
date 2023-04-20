@@ -12,3 +12,5 @@ https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 * kmeans_result.PNG:
 Final image with colored clusters.
+
+![alt text](https://github.com/amandaventurac/kmeans_customer_segmentation//blob/main/kmeans_result.PNG?raw=true)
